@@ -1,0 +1,18 @@
+.header1 {
+    align-items: center;
+    float: left;
+    width: 25%;
+    height: 20px;
+    background-color: khaki;
+    margin-right: 5px;
+}
+
+.header2 {
+    align-items: center;
+    float: right;
+    width: 70%;
+    height: 20px;
+    background-color: khaki;
+}
+
+
